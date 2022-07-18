@@ -24,7 +24,7 @@ window.onload = function() {
     'I design and code things on the web',
     'Reading books📚 nowdays',
     'you can find me on below places 👇',
-    '<img src="https://img.icons8.com/fluent/30/000000/twitter.png"/><a target="_blank" href="https://twitter.com/rajhegadkar"> twitter.com/rajhegadkar</a><br> <img src="https://img.icons8.com/windows/32/000000/github.png"/><a target="_blank" href="https://github.com/rajhegadkar"> github.com/rajhegadkar</a><br> <img src="https://img.icons8.com/fluent/30/000000/instagram.png"/><a target="_blank" href="https://instagram.com/rajhegadkar"> instagram.com/rajhegadkar</a>',
+    '<img src="https://img.icons8.com/fluent/30/000000/twitter.png"/><a target="_blank" href="https://twitter.com/rajhegadkar"> twitter.com/rajhegadkar</a><br> <img src="https://img.icons8.com/windows/32/000000/github.png"/><a target="_blank" href="https://github.com/rajhegadkar"> github.com/rajhegadkar</a><br> <img src="https://img.icons8.com/fluent/32/000000/instagram.png"/><a target="_blank" href="https://instagram.com/rajhegadkar"> instagram.com/rajhegadkar</a>',
     getCurrentTime(),
     '👀 A.'
   ]
